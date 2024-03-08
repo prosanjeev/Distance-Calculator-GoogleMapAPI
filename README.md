@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+Project Overview: This project integrates Google Maps API into a React application to display a map and calculate the distance and duration between two locations.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Key Features:
 
-## Available Scripts
+Map Display: Shows a Google Map with markers for the origin and destination locations.
+Autocomplete: Provides suggestions as users type in the origin and destination input fields.
+Geolocation: Allows users to use their current location as the origin.
+Travel Mode Selection: Allows users to choose between driving, walking, bicycling, or transit modes for distance calculation.
+Distance and Duration: Displays the calculated distance and duration for the selected route.
+Error Handling: Displays an error message if there's an issue with geolocation or calculating directions.
+Technologies Used:
 
-In the project directory, you can run:
+React: Used for building the frontend components and managing state.
+@react-google-maps/api: Library for integrating Google Maps API with React.
+Chakra UI: Used for styling the UI components.
+Learning Outcomes:
 
-### `npm start`
+Integrating Google Maps API with React.
+Using geolocation to get the user's current location.
+Calculating distance and duration between two locations.
+Handling user input and providing autocomplete suggestions.
+Future Enhancements:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Add more customization options for map markers and styles.
+Improve error handling and user feedback.
+Implement more advanced route planning features.
