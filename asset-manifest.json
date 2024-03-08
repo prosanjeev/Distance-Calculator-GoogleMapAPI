@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GoogleMapAPI-Distance-Calculator/static/css/main.14ac1b0a.css",
+    "main.js": "/GoogleMapAPI-Distance-Calculator/static/js/main.8a4ddcb3.js",
+    "index.html": "/GoogleMapAPI-Distance-Calculator/index.html",
+    "main.14ac1b0a.css.map": "/GoogleMapAPI-Distance-Calculator/static/css/main.14ac1b0a.css.map",
+    "main.8a4ddcb3.js.map": "/GoogleMapAPI-Distance-Calculator/static/js/main.8a4ddcb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ac1b0a.css",
+    "static/js/main.8a4ddcb3.js"
+  ]
+}

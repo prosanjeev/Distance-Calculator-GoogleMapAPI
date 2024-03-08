@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.14ac1b0a.css","mappings":"AAAA,gBAGE,WAAY,CACZ,QAAS,CACT,SACF,CAEA,MACE,kBAAmB,CACnB,WAAY,CACZ,WACF","sources":["index.css"],"sourcesContent":["html,\r\nbody,\r\n#root {\r\n  height: 100%;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n\r\ninput {\r\n  margin-bottom: 20px;\r\n  padding: 5px;\r\n  width: 300px;\r\n}\r\n"],"names":[],"sourceRoot":""}
