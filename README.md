@@ -1,3 +1,6 @@
+![Google-Map-API](https://github.com/prosanjeev/GoogleMapAPI-Distance-Calculator/assets/154009697/2bfe7367-9bd0-4d96-9148-28ade2c3d89c)
+
+
 Project Overview: This project integrates Google Maps API into a React application to display a map and calculate the distance and duration between two locations.
 
 Key Features:
